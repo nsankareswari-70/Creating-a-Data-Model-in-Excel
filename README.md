@@ -11,5 +11,8 @@ To create a relationship, we need our data in the form of tables. After converti
 Now it's time to create relationships between those tables
 ![img alt](https://github.com/nsankareswari-70/Creating-a-Data-Model-in-Excel/blob/727aad42ce50c208e330317543bc9cbd577d7592/dm4.png)
 
+Set the fields for the primary key and foreign key of the tables and click ok.
+
+
 
 
