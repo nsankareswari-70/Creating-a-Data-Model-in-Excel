@@ -8,7 +8,8 @@ To create a relationship, we need our data in the form of tables. After converti
 
 ![img alt](https://github.com/nsankareswari-70/Creating-a-Data-Model-in-Excel/blob/72cf4c5f829e567ca2c635bb5e9d6aa0b12b47e3/dm3.png)
 
-
+Now it's time to create relationships between those tables
+![img alt](https://github.com/nsankareswari-70/Creating-a-Data-Model-in-Excel/blob/727aad42ce50c208e330317543bc9cbd577d7592/dm4.png)
 
 
 
