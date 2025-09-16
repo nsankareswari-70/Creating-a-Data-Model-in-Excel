@@ -14,5 +14,6 @@ Now it's time to create relationships between those tables
 Set the fields for the primary key and foreign key of the tables and click ok.
 ![img alt](https://github.com/nsankareswari-70/Creating-a-Data-Model-in-Excel/blob/f2cab7a8d2678e63e3000a04db9a9340ac8b0ba1/dm5.png)
 
+![img alt](https://github.com/nsankareswari-70/Creating-a-Data-Model-in-Excel/blob/26cac43abeb9f6fabfd6d46f3090704c9a661bc7/dm6.png)
 
 
